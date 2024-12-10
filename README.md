@@ -4,8 +4,7 @@ This repository contains solutions to various Leetcode SQL problems. It serves a
 
 ## Purpose
 The goal of this repository is to:
-- Provide well-documented SQL solutions to Leetcode problems.
-- Serve as a study resource for those preparing for technical interviews.
+- Provide documented SQL solutions to Leetcode problems.
 - Foster a deeper understanding of SQL concepts and query optimization.
 
 ## Structure
@@ -14,16 +13,6 @@ The repository is organized by problem difficulty:
 - **Medium**: Intermediate problems to challenge and enhance skills.
 - **Hard**: Advanced problems for mastering complex SQL queries.
 
-Each problem includes:
-- Problem statement
-- SQL solution
-- Explanation of the solution
-
-## Contributions
-Contributions are welcome! Feel free to open a pull request with your solution or improvement. Please ensure that solutions are:
-1. Correct and optimized.
-2. Well-documented with comments.
-3. Organized under the appropriate difficulty category.
 
 ## How to Use
 1. Browse the folders based on difficulty.
