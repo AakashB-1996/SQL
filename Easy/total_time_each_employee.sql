@@ -19,7 +19,7 @@ Table: Employees
 | out_time    | int  |
 +-------------+------+
 (emp_id, event_day, in_time) is the primary key (combinations of columns with unique values) of this table.
-The table shows the employees' entries and exits in an office.
+The table shows the employees entries and exits in an office.
 event_day is the day at which this event happened, in_time is the minute at which the employee entered the office, and out_time is the minute at which they left the office.
 in_time and out_time are between 1 and 1440.
 It is guaranteed that no two events on the same day intersect in time, and in_time < out_time.
